@@ -25,6 +25,7 @@ body{
     outline: none;
     border-radius: 50%;
     position: absolute;
+    background-color: transparent;
 }
 .ring:nth-child(1){
     border-bottom-width: 8px;
